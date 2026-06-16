@@ -1,0 +1,4106 @@
+[
+  {
+    "id": "1",
+    "name": "Abilio Brunini",
+    "party": "PL-MT",
+    "state": "MT",
+    "email": "dep.abiliobrunini@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "2",
+    "name": "Acácio Favacho",
+    "party": "MDB-AP",
+    "state": "AP",
+    "email": "dep.acaciofavacho@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "3",
+    "name": "Adail Filho",
+    "party": "REPUBLICANOS-AM",
+    "state": "AM",
+    "email": "dep.adailfilho@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "4",
+    "name": "Adilson Barroso",
+    "party": "PL-SP",
+    "state": "SP",
+    "email": "dep.adilsonbarroso@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "5",
+    "name": "Adolfo Viana",
+    "party": "PSDB-BA",
+    "state": "BA",
+    "email": "dep.adolfoviana@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "6",
+    "name": "Adriana Ventura",
+    "party": "NOVO-SP",
+    "state": "SP",
+    "email": "dep.adrianaventura@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "7",
+    "name": "Adriano do Baldy",
+    "party": "PP-GO",
+    "state": "GO",
+    "email": "dep.adrianodobaldy@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "8",
+    "name": "Aécio Neves",
+    "party": "PSDB-MG",
+    "state": "MG",
+    "email": "dep.aecioneves@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "9",
+    "name": "Afonso Hamm",
+    "party": "PP-RS",
+    "state": "RS",
+    "email": "dep.afonsohamm@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "10",
+    "name": "Afonso Motta",
+    "party": "PDT-RS",
+    "state": "RS",
+    "email": "dep.afonsomotta@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "11",
+    "name": "Aguinaldo Ribeiro",
+    "party": "PP-PB",
+    "state": "PB",
+    "email": "dep.aguinaldoribeiro@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "12",
+    "name": "Airton Faleiro",
+    "party": "PT-PA",
+    "state": "PA",
+    "email": "dep.airtonfaleiro@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "13",
+    "name": "AJ Albuquerque",
+    "party": "PP-CE",
+    "state": "CE",
+    "email": "dep.ajalbuquerque@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "14",
+    "name": "Alberto Fraga",
+    "party": "PL-DF",
+    "state": "DF",
+    "email": "dep.albertofraga@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "15",
+    "name": "Alberto Mourão",
+    "party": "MDB-SP",
+    "state": "SP",
+    "email": "dep.albertomourao@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "16",
+    "name": "Albuquerque",
+    "party": "REPUBLICANOS-RR",
+    "state": "RR",
+    "email": "dep.albuquerque@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "17",
+    "name": "Alceu Moreira",
+    "party": "MDB-RS",
+    "state": "RS",
+    "email": "dep.alceumoreira@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "18",
+    "name": "Alencar Santana",
+    "party": "PT-SP",
+    "state": "SP",
+    "email": "dep.alencarsantana@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "19",
+    "name": "Alex Manente",
+    "party": "CIDADANIA-SP",
+    "state": "SP",
+    "email": "dep.alexmanente@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "20",
+    "name": "Alex Santana",
+    "party": "REPUBLICANOS-BA",
+    "state": "BA",
+    "email": "dep.alexsantana@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "21",
+    "name": "Alexandre Guimarães",
+    "party": "MDB-TO",
+    "state": "TO",
+    "email": "dep.alexandreguimaraes@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "22",
+    "name": "Alexandre Leite",
+    "party": "UNIÃO-SP",
+    "state": "SP",
+    "email": "dep.alexandreleite@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "23",
+    "name": "Alexandre Lindenmeyer",
+    "party": "PT-RS",
+    "state": "RS",
+    "email": "dep.alexandrelindenmeyer@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "24",
+    "name": "Alfredinho",
+    "party": "PT-SP",
+    "state": "SP",
+    "email": "dep.alfredinho@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "25",
+    "name": "Alfredo Gaspar",
+    "party": "UNIÃO-AL",
+    "state": "AL",
+    "email": "dep.alfredogaspar@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "26",
+    "name": "Alice Portugal",
+    "party": "PCdoB-BA",
+    "state": "BA",
+    "email": "dep.aliceportugal@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "27",
+    "name": "Aliel Machado",
+    "party": "PV-PR",
+    "state": "PR",
+    "email": "dep.alielmachado@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "28",
+    "name": "Allan Garcês",
+    "party": "PP-MA",
+    "state": "MA",
+    "email": "dep.allangarces@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "29",
+    "name": "Altineu Côrtes",
+    "party": "PL-RJ",
+    "state": "RJ",
+    "email": "dep.altineucortes@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "30",
+    "name": "Aluisio Mendes",
+    "party": "REPUBLICANOS-MA",
+    "state": "MA",
+    "email": "dep.aluisiomendes@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "31",
+    "name": "Amanda Gentil",
+    "party": "PP-MA",
+    "state": "MA",
+    "email": "dep.amandagentil@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "32",
+    "name": "Amaro Neto",
+    "party": "REPUBLICANOS-ES",
+    "state": "ES",
+    "email": "dep.amaroneto@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "33",
+    "name": "Amom Mandel",
+    "party": "CIDADANIA-AM",
+    "state": "AM",
+    "email": "dep.amommandel@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "34",
+    "name": "Ana Paula Leão",
+    "party": "PP-MG",
+    "state": "MG",
+    "email": "dep.anapaulaleao@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "35",
+    "name": "Ana Paula Lima",
+    "party": "PT-SC",
+    "state": "SC",
+    "email": "dep.anapaulalima@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "36",
+    "name": "Ana Pimentel",
+    "party": "PT-MG",
+    "state": "MG",
+    "email": "dep.anapimentel@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "37",
+    "name": "André Ferreira",
+    "party": "PL-PE",
+    "state": "PE",
+    "email": "dep.andreferreira@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "38",
+    "name": "André Figueiredo",
+    "party": "PDT-CE",
+    "state": "CE",
+    "email": "dep.andrefigueiredo@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "39",
+    "name": "André Janones",
+    "party": "AVANTE-MG",
+    "state": "MG",
+    "email": "dep.andrejanones@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "40",
+    "name": "Andreia Siqueira",
+    "party": "MDB-PA",
+    "state": "PA",
+    "email": "dep.andreiasiqueira@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "41",
+    "name": "Antônia Lúcia",
+    "party": "REPUBLICANOS-AC",
+    "state": "AC",
+    "email": "dep.antonialucia@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "42",
+    "name": "Antonio Andrade",
+    "party": "REPUBLICANOS-TO",
+    "state": "TO",
+    "email": "dep.antonioandrade@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "43",
+    "name": "Antonio Brito",
+    "party": "PSD-BA",
+    "state": "BA",
+    "email": "dep.antoniobrito@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "44",
+    "name": "Antonio Carlos Rodrigues",
+    "party": "PL-SP",
+    "state": "SP",
+    "email": "dep.antoniocarlosrodrigues@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "45",
+    "name": "Antônio Doido",
+    "party": "MDB-PA",
+    "state": "PA",
+    "email": "dep.antoniodoido@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "46",
+    "name": "Any Ortiz",
+    "party": "CIDADANIA-RS",
+    "state": "RS",
+    "email": "dep.anyortiz@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "47",
+    "name": "Arlindo Chinaglia",
+    "party": "PT-SP",
+    "state": "SP",
+    "email": "dep.arlindochinaglia@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "48",
+    "name": "Arnaldo Jardim",
+    "party": "CIDADANIA-SP",
+    "state": "SP",
+    "email": "dep.arnaldojardim@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "49",
+    "name": "Arthur Lira",
+    "party": "PP-AL",
+    "state": "AL",
+    "email": "dep.arthurlira@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "50",
+    "name": "Arthur Oliveira Maia",
+    "party": "UNIÃO-BA",
+    "state": "BA",
+    "email": "dep.arthuroliveiramaia@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "51",
+    "name": "Átila Lins",
+    "party": "PSD-AM",
+    "state": "AM",
+    "email": "dep.atilalins@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "52",
+    "name": "Átila Lira",
+    "party": "PP-PI",
+    "state": "PI",
+    "email": "dep.atilamlira@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "53",
+    "name": "Augusto Coutinho",
+    "party": "REPUBLICANOS-PE",
+    "state": "PE",
+    "email": "dep.augustocoutinho@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "54",
+    "name": "Augusto Puppio",
+    "party": "MDB-AP",
+    "state": "AP",
+    "email": "dep.augustopuppio@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "55",
+    "name": "Aureo Ribeiro",
+    "party": "SOLIDARIEDADE-RJ",
+    "state": "RJ",
+    "email": "dep.aureoribeiro@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "56",
+    "name": "Bacelar",
+    "party": "PV-BA",
+    "state": "BA",
+    "email": "dep.bacelar@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "57",
+    "name": "Baleia Rossi",
+    "party": "MDB-SP",
+    "state": "SP",
+    "email": "dep.baleiarossi@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "58",
+    "name": "Bandeira de Mello",
+    "party": "PSB-RJ",
+    "state": "RJ",
+    "email": "dep.bandeirademello@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "59",
+    "name": "Bebeto",
+    "party": "PP-RJ",
+    "state": "RJ",
+    "email": "dep.bebeto@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "60",
+    "name": "Benedita da Silva",
+    "party": "PT-RJ",
+    "state": "RJ",
+    "email": "dep.beneditadasilva@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "61",
+    "name": "Benes Leocádio",
+    "party": "UNIÃO-RN",
+    "state": "RN",
+    "email": "dep.benesleocadio@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "62",
+    "name": "Beto Pereira",
+    "party": "PSDB-MS",
+    "state": "MS",
+    "email": "dep.betopereira@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "63",
+    "name": "Beto Preto",
+    "party": "PSD-PR",
+    "state": "PR",
+    "email": "dep.betopreto@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "64",
+    "name": "Beto Richa",
+    "party": "PSDB-PR",
+    "state": "PR",
+    "email": "dep.betoricha@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "65",
+    "name": "Bia Kicis",
+    "party": "PL-DF",
+    "state": "DF",
+    "email": "dep.biakicis@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "66",
+    "name": "Bibo Nunes",
+    "party": "PL-RS",
+    "state": "RS",
+    "email": "dep.bibonunes@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "67",
+    "name": "Bohn Gass",
+    "party": "PT-RS",
+    "state": "RS",
+    "email": "dep.bohngass@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "68",
+    "name": "Bruno Farias",
+    "party": "AVANTE-MG",
+    "state": "MG",
+    "email": "dep.brunofarias@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "69",
+    "name": "Bruno Ganem",
+    "party": "PODE-SP",
+    "state": "SP",
+    "email": "dep.brunoganem@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "70",
+    "name": "Cabo Gilberto Silva",
+    "party": "PL-PB",
+    "state": "PB",
+    "email": "dep.cabogilbertosilva@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "71",
+    "name": "Camila Jara",
+    "party": "PT-MS",
+    "state": "MS",
+    "email": "dep.camilajara@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "72",
+    "name": "Capitão Alberto Neto",
+    "party": "PL-AM",
+    "state": "AM",
+    "email": "dep.capitaoalbertoneto@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "73",
+    "name": "Capitão Alden",
+    "party": "PL-BA",
+    "state": "BA",
+    "email": "dep.capitaoalden@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "74",
+    "name": "Capitão Augusto",
+    "party": "PL-SP",
+    "state": "SP",
+    "email": "dep.capitaoaugusto@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "75",
+    "name": "Carla Zambelli",
+    "party": "PL-SP",
+    "state": "SP",
+    "email": "dep.carlazambelli@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "76",
+    "name": "Carlos Henrique Gaguim",
+    "party": "UNIÃO-TO",
+    "state": "TO",
+    "email": "dep.carloshenriquegaguim@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "77",
+    "name": "Carlos Jordy",
+    "party": "PL-RJ",
+    "state": "RJ",
+    "email": "dep.carlosjordy@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "78",
+    "name": "Carlos Sampaio",
+    "party": "PSD-SP",
+    "state": "SP",
+    "email": "dep.carlossampaio@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "79",
+    "name": "Carlos Veras",
+    "party": "PT-PE",
+    "state": "PE",
+    "email": "dep.carlosveras@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "80",
+    "name": "Carlos Zarattini",
+    "party": "PT-SP",
+    "state": "SP",
+    "email": "dep.carloszarattini@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "81",
+    "name": "Carmen Zanotto",
+    "party": "CIDADANIA-SC",
+    "state": "SC",
+    "email": "dep.carmenzanotto@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "82",
+    "name": "Carol Dartora",
+    "party": "PT-PR",
+    "state": "PR",
+    "email": "dep.caroldartora@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "83",
+    "name": "Caroline de Toni",
+    "party": "PL-SC",
+    "state": "SC",
+    "email": "dep.carolinedetoni@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "84",
+    "name": "Castro Neto",
+    "party": "PSD-PI",
+    "state": "PI",
+    "email": "dep.castroneto@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "85",
+    "name": "Célia Xakriabá",
+    "party": "PSOL-MG",
+    "state": "MG",
+    "email": "dep.celiaxakriaba@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "86",
+    "name": "Célio Silveira",
+    "party": "MDB-GO",
+    "state": "GO",
+    "email": "dep.celiosilveira@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "87",
+    "name": "Célio Studart",
+    "party": "PSD-CE",
+    "state": "CE",
+    "email": "dep.celiostudart@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "88",
+    "name": "Celso Russomanno",
+    "party": "REPUBLICANOS-SP",
+    "state": "SP",
+    "email": "dep.celsorussomanno@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "89",
+    "name": "Cezinha de Madureira",
+    "party": "PSD-SP",
+    "state": "SP",
+    "email": "dep.cezinhademadureira@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "90",
+    "name": "Charles Fernandes",
+    "party": "PSD-BA",
+    "state": "BA",
+    "email": "dep.charlesfernandes@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "91",
+    "name": "Chico Alencar",
+    "party": "PSOL-RJ",
+    "state": "RJ",
+    "email": "dep.chicoalencar@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "92",
+    "name": "Chiquinho Brazão",
+    "party": "S.PART.-RJ",
+    "state": "RJ",
+    "email": "dep.chiquinhobrazao@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "93",
+    "name": "Chris Tonietto",
+    "party": "PL-RJ",
+    "state": "RJ",
+    "email": "dep.christonietto@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "94",
+    "name": "Clarissa Tércio",
+    "party": "PP-PE",
+    "state": "PE",
+    "email": "dep.clarissatercio@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "95",
+    "name": "Claudio Cajado",
+    "party": "PP-BA",
+    "state": "BA",
+    "email": "dep.claudiocajado@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "96",
+    "name": "Cleber Verde",
+    "party": "MDB-MA",
+    "state": "MA",
+    "email": "dep.cleberverde@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "97",
+    "name": "Clodoaldo Magalhães",
+    "party": "PV-PE",
+    "state": "PE",
+    "email": "dep.clodoaldomagalhaes@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "98",
+    "name": "Cobalchini",
+    "party": "MDB-SC",
+    "state": "SC",
+    "email": "dep.cobalchini@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "99",
+    "name": "Coronel Assis",
+    "party": "UNIÃO-MT",
+    "state": "MT",
+    "email": "dep.coronelassis@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "100",
+    "name": "Coronel Chrisóstomo",
+    "party": "PL-RO",
+    "state": "RO",
+    "email": "dep.coronelchrisostomo@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "101",
+    "name": "Coronel Fernanda",
+    "party": "PL-MT",
+    "state": "MT",
+    "email": "dep.coronelfernanda@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "102",
+    "name": "Coronel Meira",
+    "party": "PL-PE",
+    "state": "PE",
+    "email": "dep.coronelmeira@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "103",
+    "name": "Coronel Ulysses",
+    "party": "UNIÃO-AC",
+    "state": "AC",
+    "email": "dep.coronelulysses@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "104",
+    "name": "Covatti Filho",
+    "party": "PP-RS",
+    "state": "RS",
+    "email": "dep.covattifilho@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "105",
+    "name": "Cristiane Lopes",
+    "party": "UNIÃO-RO",
+    "state": "RO",
+    "email": "dep.cristianelopes@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "106",
+    "name": "Da Vitoria",
+    "party": "PP-ES",
+    "state": "ES",
+    "email": "dep.davitoria@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "107",
+    "name": "Dagoberto Nogueira",
+    "party": "PSDB-MS",
+    "state": "MS",
+    "email": "dep.dagobertonogueira@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "108",
+    "name": "Daiana Santos",
+    "party": "PCdoB-RS",
+    "state": "RS",
+    "email": "dep.daianasantos@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "109",
+    "name": "Dal Barreto",
+    "party": "UNIÃO-BA",
+    "state": "BA",
+    "email": "dep.dalbarreto@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "110",
+    "name": "Damião Feliciano",
+    "party": "UNIÃO-PB",
+    "state": "PB",
+    "email": "dep.damiaofeliciano@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "111",
+    "name": "Dandara",
+    "party": "PT-MG",
+    "state": "MG",
+    "email": "dep.dandara@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "112",
+    "name": "Dani Cunha",
+    "party": "UNIÃO-RJ",
+    "state": "RJ",
+    "email": "dep.danicunha@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "113",
+    "name": "Daniel Agrobom",
+    "party": "PL-GO",
+    "state": "GO",
+    "email": "dep.danielagrobom@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "114",
+    "name": "Daniel Almeida",
+    "party": "PCdoB-BA",
+    "state": "BA",
+    "email": "dep.danielalmeida@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "115",
+    "name": "Daniel Barbosa",
+    "party": "PP-AL",
+    "state": "AL",
+    "email": "dep.danielbarbosa@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "116",
+    "name": "Daniel Freitas",
+    "party": "PL-SC",
+    "state": "SC",
+    "email": "dep.danielfreitas@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "117",
+    "name": "Daniel Trzeciak",
+    "party": "PSDB-RS",
+    "state": "RS",
+    "email": "dep.danieltrzeciak@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "118",
+    "name": "Daniela do Waguinho",
+    "party": "UNIÃO-RJ",
+    "state": "RJ",
+    "email": "dep.danieladowaguinho@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "119",
+    "name": "Daniela Reinehr",
+    "party": "PL-SC",
+    "state": "SC",
+    "email": "dep.danielareinehr@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "120",
+    "name": "Danilo Forte",
+    "party": "UNIÃO-CE",
+    "state": "CE",
+    "email": "dep.daniloforte@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "121",
+    "name": "Danrlei de Deus Hinterholz",
+    "party": "PSD-RS",
+    "state": "RS",
+    "email": "dep.danrleidedeushinterholz@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "122",
+    "name": "David Soares",
+    "party": "UNIÃO-SP",
+    "state": "SP",
+    "email": "dep.davidsoares@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "123",
+    "name": "Dayany Bittencourt",
+    "party": "UNIÃO-CE",
+    "state": "CE",
+    "email": "dep.dayanybittencourt@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "124",
+    "name": "Defensor Stélio Dener",
+    "party": "REPUBLICANOS-RR",
+    "state": "RR",
+    "email": "dep.defensorsteliodener@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "125",
+    "name": "Delegada Adriana Accorsi",
+    "party": "PT-GO",
+    "state": "GO",
+    "email": "dep.delegadaadrianaaccorsi@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "126",
+    "name": "Delegada Ione",
+    "party": "AVANTE-MG",
+    "state": "MG",
+    "email": "dep.delegadaione@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "127",
+    "name": "Delegada Katarina",
+    "party": "PSD-SE",
+    "state": "SE",
+    "email": "dep.delegadakatarina@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "128",
+    "name": "Delegado Bruno Lima",
+    "party": "PP-SP",
+    "state": "SP",
+    "email": "dep.delegadobrunolima@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "129",
+    "name": "Delegado Caveira",
+    "party": "PL-PA",
+    "state": "PA",
+    "email": "dep.delegadocaveira@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "130",
+    "name": "Delegado da Cunha",
+    "party": "PP-SP",
+    "state": "SP",
+    "email": "dep.delegadodacunha@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "131",
+    "name": "Delegado Éder Mauro",
+    "party": "PL-PA",
+    "state": "PA",
+    "email": "dep.delegadoedermauro@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "132",
+    "name": "Delegado Fabio Costa",
+    "party": "PP-AL",
+    "state": "AL",
+    "email": "dep.delegadofabiocosta@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "133",
+    "name": "Delegado Marcelo Freitas",
+    "party": "UNIÃO-MG",
+    "state": "MG",
+    "email": "dep.delegadomarcelofreitas@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "134",
+    "name": "Delegado Matheus Laiola",
+    "party": "UNIÃO-PR",
+    "state": "PR",
+    "email": "dep.delegadomatheuslaiola@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "135",
+    "name": "Delegado Palumbo",
+    "party": "MDB-SP",
+    "state": "SP",
+    "email": "dep.delegadopalumbo@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "136",
+    "name": "Delegado Paulo Bilynskyj",
+    "party": "PL-SP",
+    "state": "SP",
+    "email": "dep.delegadopaulobilynskyj@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "137",
+    "name": "Delegado Ramagem",
+    "party": "PL-RJ",
+    "state": "RJ",
+    "email": "dep.delegadoramagem@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "138",
+    "name": "Denise Pessôa",
+    "party": "PT-RS",
+    "state": "RS",
+    "email": "dep.denisepessoa@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "139",
+    "name": "Detinha",
+    "party": "PL-MA",
+    "state": "MA",
+    "email": "dep.detinha@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "140",
+    "name": "Diego Andrade",
+    "party": "PSD-MG",
+    "state": "MG",
+    "email": "dep.diegoandrade@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "141",
+    "name": "Diego Coronel",
+    "party": "PSD-BA",
+    "state": "BA",
+    "email": "dep.diegocoronel@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "142",
+    "name": "Diego Garcia",
+    "party": "REPUBLICANOS-PR",
+    "state": "PR",
+    "email": "dep.diegogarcia@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "143",
+    "name": "Dilceu Sperafico",
+    "party": "PP-PR",
+    "state": "PR",
+    "email": "dep.dilceusperafico@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "144",
+    "name": "Dilvanda Faro",
+    "party": "PT-PA",
+    "state": "PA",
+    "email": "dep.dilvandafaro@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "145",
+    "name": "Dimas Fabiano",
+    "party": "PP-MG",
+    "state": "MG",
+    "email": "dep.dimasfabiano@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "146",
+    "name": "Dimas Gadelha",
+    "party": "PT-RJ",
+    "state": "RJ",
+    "email": "dep.dimasgadelha@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "147",
+    "name": "Domingos Neto",
+    "party": "PSD-CE",
+    "state": "CE",
+    "email": "dep.domingosneto@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "148",
+    "name": "Domingos Sávio",
+    "party": "PL-MG",
+    "state": "MG",
+    "email": "dep.domingossavio@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "149",
+    "name": "Dorinaldo Malafaia",
+    "party": "PDT-AP",
+    "state": "AP",
+    "email": "dep.dorinaldomalafaia@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "150",
+    "name": "Douglas Viegas",
+    "party": "UNIÃO-SP",
+    "state": "SP",
+    "email": "dep.douglasviegas@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "151",
+    "name": "Doutor Luizinho",
+    "party": "PP-RJ",
+    "state": "RJ",
+    "email": "dep.doutorluizinho@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "152",
+    "name": "Dr. Benjamim",
+    "party": "UNIÃO-MA",
+    "state": "MA",
+    "email": "dep.dr.benjamim@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "153",
+    "name": "Dr. Fernando Máximo",
+    "party": "UNIÃO-RO",
+    "state": "RO",
+    "email": "dep.dr.fernandomaximo@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "154",
+    "name": "Dr. Francisco",
+    "party": "PT-PI",
+    "state": "PI",
+    "email": "dep.dr.francisco@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "155",
+    "name": "Dr. Frederico",
+    "party": "PRD-MG",
+    "state": "MG",
+    "email": "dep.dr.frederico@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "156",
+    "name": "Dr. Jaziel",
+    "party": "PL-CE",
+    "state": "CE",
+    "email": "dep.dr.jaziel@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "157",
+    "name": "Dr. Luiz Ovando",
+    "party": "PP-MS",
+    "state": "MS",
+    "email": "dep.dr.luizovando@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "158",
+    "name": "Dr. Victor Linhalis",
+    "party": "PODE-ES",
+    "state": "ES",
+    "email": "dep.dr.victorlinhalis@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "159",
+    "name": "Dr. Zacharias Calil",
+    "party": "UNIÃO-GO",
+    "state": "GO",
+    "email": "dep.dr.zachariascalil@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "160",
+    "name": "Dra. Alessandra Haber",
+    "party": "MDB-PA",
+    "state": "PA",
+    "email": "dep.dra.alessandrahaber@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "161",
+    "name": "Dra. Mayra Pinheiro",
+    "party": "PL-CE",
+    "state": "CE",
+    "email": "dep.dra.mayrapinheiro@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "162",
+    "name": "Duarte Jr.",
+    "party": "PSB-MA",
+    "state": "MA",
+    "email": "dep.duartejr@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "163",
+    "name": "Duda Ramos",
+    "party": "MDB-RR",
+    "state": "RR",
+    "email": "dep.dudaramos@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "164",
+    "name": "Duda Salabert",
+    "party": "PDT-MG",
+    "state": "MG",
+    "email": "dep.dudasalabert@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "165",
+    "name": "Eduardo Bismarck",
+    "party": "PDT-CE",
+    "state": "CE",
+    "email": "dep.eduardobismarck@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "166",
+    "name": "Eduardo Bolsonaro",
+    "party": "PL-SP",
+    "state": "SP",
+    "email": "dep.eduardobolsonaro@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "167",
+    "name": "Eduardo da Fonte",
+    "party": "PP-PE",
+    "state": "PE",
+    "email": "dep.eduardodafonte@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "168",
+    "name": "Eduardo Velloso",
+    "party": "UNIÃO-AC",
+    "state": "AC",
+    "email": "dep.eduardovelloso@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "169",
+    "name": "Elcione Barbalho",
+    "party": "MDB-PA",
+    "state": "PA",
+    "email": "dep.elcionebarbalho@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "170",
+    "name": "Eli Borges",
+    "party": "PL-TO",
+    "state": "TO",
+    "email": "dep.eliborges@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "171",
+    "name": "Elisangela Araujo",
+    "party": "PT-BA",
+    "state": "BA",
+    "email": "dep.elisangelaaraujo@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "172",
+    "name": "Elmar Nascimento",
+    "party": "UNIÃO-BA",
+    "state": "BA",
+    "email": "dep.elmarnascimento@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "173",
+    "name": "Ely Santos",
+    "party": "REPUBLICANOS-SP",
+    "state": "SP",
+    "email": "dep.elysantos@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "174",
+    "name": "Emanuel Pinheiro Neto",
+    "party": "MDB-MT",
+    "state": "MT",
+    "email": "dep.emanuelpinheironeto@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "175",
+    "name": "Emidinho Madeira",
+    "party": "PL-MG",
+    "state": "MG",
+    "email": "dep.emidinhomadeira@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "176",
+    "name": "Eriberto Medeiros",
+    "party": "PSB-PE",
+    "state": "PE",
+    "email": "dep.eribertomedeiros@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "177",
+    "name": "Erika Hilton",
+    "party": "PSOL-SP",
+    "state": "SP",
+    "email": "dep.erikahilton@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "178",
+    "name": "Erika Kokay",
+    "party": "PT-DF",
+    "state": "DF",
+    "email": "dep.erikakokay@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "179",
+    "name": "Eros Biondini",
+    "party": "PL-MG",
+    "state": "MG",
+    "email": "dep.erosbiondini@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "180",
+    "name": "Euclydes Pettersen",
+    "party": "REPUBLICANOS-MG",
+    "state": "MG",
+    "email": "dep.euclydespettersen@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "181",
+    "name": "Eunício Oliveira",
+    "party": "MDB-CE",
+    "state": "CE",
+    "email": "dep.euniciooliveira@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "182",
+    "name": "Evair Vieira de Melo",
+    "party": "PP-ES",
+    "state": "ES",
+    "email": "dep.evairvieirademelo@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "183",
+    "name": "Fábio Macedo",
+    "party": "PODE-MA",
+    "state": "MA",
+    "email": "dep.fabiomacedo@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "184",
+    "name": "Fabio Schiochet",
+    "party": "UNIÃO-SC",
+    "state": "SC",
+    "email": "dep.fabioschiochet@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "185",
+    "name": "Fábio Teruel",
+    "party": "MDB-SP",
+    "state": "SP",
+    "email": "dep.fabioteruel@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "186",
+    "name": "Fausto Pinato",
+    "party": "PP-SP",
+    "state": "SP",
+    "email": "dep.faustopinato@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "187",
+    "name": "Fausto Santos Jr.",
+    "party": "UNIÃO-AM",
+    "state": "AM",
+    "email": "dep.faustosantosjr@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "188",
+    "name": "Felipe Carreras",
+    "party": "PSB-PE",
+    "state": "PE",
+    "email": "dep.felipecarreras@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "189",
+    "name": "Felipe Francischini",
+    "party": "UNIÃO-PR",
+    "state": "PR",
+    "email": "dep.felipefrancischini@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "190",
+    "name": "Félix Mendonça Júnior",
+    "party": "PDT-BA",
+    "state": "BA",
+    "email": "dep.felixmendoncajunior@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "191",
+    "name": "Fernanda Melchionna",
+    "party": "PSOL-RS",
+    "state": "RS",
+    "email": "dep.fernandamelchionna@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "192",
+    "name": "Fernanda Pessoa",
+    "party": "UNIÃO-CE",
+    "state": "CE",
+    "email": "dep.fernandapessoa@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "193",
+    "name": "Fernando Coelho Filho",
+    "party": "UNIÃO-PE",
+    "state": "PE",
+    "email": "dep.fernandocoelhofilho@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "194",
+    "name": "Fernando Mineiro",
+    "party": "PT-RN",
+    "state": "RN",
+    "email": "dep.fernandomineiro@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "195",
+    "name": "Fernando Monteiro",
+    "party": "PP-PE",
+    "state": "PE",
+    "email": "dep.fernandomonteiro@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "196",
+    "name": "Fernando Rodolfo",
+    "party": "PL-PE",
+    "state": "PE",
+    "email": "dep.fernandorodolfo@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "197",
+    "name": "Filipe Barros",
+    "party": "PL-PR",
+    "state": "PR",
+    "email": "dep.filipebarros@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "198",
+    "name": "Filipe Martins",
+    "party": "PL-TO",
+    "state": "TO",
+    "email": "dep.filipemartins@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "199",
+    "name": "Flávia Morais",
+    "party": "PDT-GO",
+    "state": "GO",
+    "email": "dep.flaviamorais@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "200",
+    "name": "Flávio Nogueira",
+    "party": "PT-PI",
+    "state": "PI",
+    "email": "dep.flavionogueira@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "201",
+    "name": "Florentino Neto",
+    "party": "PT-PI",
+    "state": "PI",
+    "email": "dep.florentinoneto@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "202",
+    "name": "Franciane Bayer",
+    "party": "REPUBLICANOS-RS",
+    "state": "RS",
+    "email": "dep.francianebayer@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "203",
+    "name": "Fred Costa",
+    "party": "PRD-MG",
+    "state": "MG",
+    "email": "dep.fredcosta@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "204",
+    "name": "Fred Linhares",
+    "party": "REPUBLICANOS-DF",
+    "state": "DF",
+    "email": "dep.fredlinhares@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "205",
+    "name": "Gabriel Mota",
+    "party": "REPUBLICANOS-RR",
+    "state": "RR",
+    "email": "dep.gabrielmota@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "206",
+    "name": "Gabriel Nunes",
+    "party": "PSD-BA",
+    "state": "BA",
+    "email": "dep.gabrielnunes@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "207",
+    "name": "General Girão",
+    "party": "PL-RN",
+    "state": "RN",
+    "email": "dep.generalgirao@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "208",
+    "name": "General Pazuello",
+    "party": "PL-RJ",
+    "state": "RJ",
+    "email": "dep.generalpazuello@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "209",
+    "name": "Geraldo Resende",
+    "party": "PSDB-MS",
+    "state": "MS",
+    "email": "dep.geraldoresende@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "210",
+    "name": "Gerlen Diniz",
+    "party": "PP-AC",
+    "state": "AC",
+    "email": "dep.gerlendiniz@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "211",
+    "name": "Gervásio Maia",
+    "party": "PSB-PB",
+    "state": "PB",
+    "email": "dep.gervasiomaia@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "212",
+    "name": "Giacobo",
+    "party": "PL-PR",
+    "state": "PR",
+    "email": "dep.giacobo@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "213",
+    "name": "Gilberto Abramo",
+    "party": "REPUBLICANOS-MG",
+    "state": "MG",
+    "email": "dep.gilbertoabramo@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "214",
+    "name": "Gilberto Nascimento",
+    "party": "PSD-SP",
+    "state": "SP",
+    "email": "dep.gilbertonascimento@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "215",
+    "name": "Gilson Daniel",
+    "party": "PODE-ES",
+    "state": "ES",
+    "email": "dep.gilsondaniel@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "216",
+    "name": "Gilson Marques",
+    "party": "NOVO-SC",
+    "state": "SC",
+    "email": "dep.gilsonmarques@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "217",
+    "name": "Gilvan da Federal",
+    "party": "PL-ES",
+    "state": "ES",
+    "email": "dep.gilvandafederal@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "218",
+    "name": "Gilvan Maximo",
+    "party": "REPUBLICANOS-DF",
+    "state": "DF",
+    "email": "dep.gilvanmaximo@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "219",
+    "name": "Giovani Cherini",
+    "party": "PL-RS",
+    "state": "RS",
+    "email": "dep.giovanicherini@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "220",
+    "name": "Gisela Simona",
+    "party": "UNIÃO-MT",
+    "state": "MT",
+    "email": "dep.giselasimona@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "221",
+    "name": "Glauber Braga",
+    "party": "PSOL-RJ",
+    "state": "RJ",
+    "email": "dep.glauberbraga@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "222",
+    "name": "Gláucia Santiago",
+    "party": "PL-MG",
+    "state": "MG",
+    "email": "dep.glauciasantiago@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "223",
+    "name": "Glaustin da Fokus",
+    "party": "PODE-GO",
+    "state": "GO",
+    "email": "dep.glaustindafokus@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "224",
+    "name": "Gleisi Hoffmann",
+    "party": "PT-PR",
+    "state": "PR",
+    "email": "dep.gleisihoffmann@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "225",
+    "name": "Greyce Elias",
+    "party": "AVANTE-MG",
+    "state": "MG",
+    "email": "dep.greyceelias@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "226",
+    "name": "Guilherme Boulos",
+    "party": "PSOL-SP",
+    "state": "SP",
+    "email": "dep.guilhermeboulos@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "227",
+    "name": "Guilherme Uchoa",
+    "party": "PSB-PE",
+    "state": "PE",
+    "email": "dep.guilhermeuchoa@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "228",
+    "name": "Gustavo Gayer",
+    "party": "PL-GO",
+    "state": "GO",
+    "email": "dep.gustavogayer@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "229",
+    "name": "Gustinho Ribeiro",
+    "party": "REPUBLICANOS-SE",
+    "state": "SE",
+    "email": "dep.gustinhoribeiro@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "230",
+    "name": "Gutemberg Reis",
+    "party": "MDB-RJ",
+    "state": "RJ",
+    "email": "dep.gutembergreis@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "231",
+    "name": "Heitor Schuch",
+    "party": "PSB-RS",
+    "state": "RS",
+    "email": "dep.heitorschuch@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "232",
+    "name": "Helder Salomão",
+    "party": "PT-ES",
+    "state": "ES",
+    "email": "dep.heldersalomao@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "233",
+    "name": "Helena Lima",
+    "party": "MDB-RR",
+    "state": "RR",
+    "email": "dep.helenalima@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "234",
+    "name": "Hélio Leite",
+    "party": "UNIÃO-PA",
+    "state": "PA",
+    "email": "dep.helioleite@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "235",
+    "name": "Helio Lopes",
+    "party": "PL-RJ",
+    "state": "RJ",
+    "email": "dep.heliolopes@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "236",
+    "name": "Henderson Pinto",
+    "party": "MDB-PA",
+    "state": "PA",
+    "email": "dep.hendersonpinto@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "237",
+    "name": "Hercílio Coelho Diniz",
+    "party": "MDB-MG",
+    "state": "MG",
+    "email": "dep.herciliocoelhodiniz@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "238",
+    "name": "Hugo Leal",
+    "party": "PSD-RJ",
+    "state": "RJ",
+    "email": "dep.hugoleal@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "239",
+    "name": "Hugo Motta",
+    "party": "REPUBLICANOS-PB",
+    "state": "PB",
+    "email": "dep.hugomotta@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "240",
+    "name": "Icaro de Valmir",
+    "party": "PL-SE",
+    "state": "SE",
+    "email": "dep.icarodevalmir@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "241",
+    "name": "Idilvan Alencar",
+    "party": "PDT-CE",
+    "state": "CE",
+    "email": "dep.idilvanalencar@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "242",
+    "name": "Igor Timo",
+    "party": "PSD-MG",
+    "state": "MG",
+    "email": "dep.igortimo@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "243",
+    "name": "Ismael",
+    "party": "PSD-SC",
+    "state": "SC",
+    "email": "dep.ismael@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "244",
+    "name": "Ismael Alexandrino",
+    "party": "PSD-GO",
+    "state": "GO",
+    "email": "dep.ismaelalexandrino@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "245",
+    "name": "Isnaldo Bulhões Jr.",
+    "party": "MDB-AL",
+    "state": "AL",
+    "email": "dep.isnaldobulhoesjr@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "246",
+    "name": "Ivan Valente",
+    "party": "PSOL-SP",
+    "state": "SP",
+    "email": "dep.ivanvalente@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "247",
+    "name": "Ivoneide Caetano",
+    "party": "PT-BA",
+    "state": "BA",
+    "email": "dep.ivoneidecaetano@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "248",
+    "name": "Iza Arruda",
+    "party": "MDB-PE",
+    "state": "PE",
+    "email": "dep.izaarruda@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "249",
+    "name": "Jack Rocha",
+    "party": "PT-ES",
+    "state": "ES",
+    "email": "dep.jackrocha@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "250",
+    "name": "Jadyel Alencar",
+    "party": "REPUBLICANOS-PI",
+    "state": "PI",
+    "email": "dep.jadyelalencar@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "251",
+    "name": "Jandira Feghali",
+    "party": "PCdoB-RJ",
+    "state": "RJ",
+    "email": "dep.jandirafeghali@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "252",
+    "name": "Jeferson Rodrigues",
+    "party": "REPUBLICANOS-GO",
+    "state": "GO",
+    "email": "dep.jefersonrodrigues@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "253",
+    "name": "Jefferson Campos",
+    "party": "PL-SP",
+    "state": "SP",
+    "email": "dep.jeffersoncampos@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "254",
+    "name": "Jilmar Tatto",
+    "party": "PT-SP",
+    "state": "SP",
+    "email": "dep.jilmartatto@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "255",
+    "name": "João Carlos Bacelar",
+    "party": "PL-BA",
+    "state": "BA",
+    "email": "dep.joaocarlosbacelar@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "256",
+    "name": "João Daniel",
+    "party": "PT-SE",
+    "state": "SE",
+    "email": "dep.joaodaniel@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "257",
+    "name": "João Leão",
+    "party": "PP-BA",
+    "state": "BA",
+    "email": "dep.joaoleao@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "258",
+    "name": "João Maia",
+    "party": "PP-RN",
+    "state": "RN",
+    "email": "dep.joaomaia@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "259",
+    "name": "Joaquim Passarinho",
+    "party": "PL-PA",
+    "state": "PA",
+    "email": "dep.joaquimpassarinho@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "260",
+    "name": "Jonas Donizette",
+    "party": "PSB-SP",
+    "state": "SP",
+    "email": "dep.jonasdonizette@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "261",
+    "name": "Jorge Braz",
+    "party": "REPUBLICANOS-RJ",
+    "state": "RJ",
+    "email": "dep.jorgebraz@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "262",
+    "name": "Jorge Goetten",
+    "party": "REPUBLICANOS-SC",
+    "state": "SC",
+    "email": "dep.jorgegoetten@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "263",
+    "name": "Jorge Solla",
+    "party": "PT-BA",
+    "state": "BA",
+    "email": "dep.jorgesolla@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "264",
+    "name": "José Airton Félix Cirilo",
+    "party": "PT-CE",
+    "state": "CE",
+    "email": "dep.joseairtonfelixcirilo@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "265",
+    "name": "José Guimarães",
+    "party": "PT-CE",
+    "state": "CE",
+    "email": "dep.joseguimaraes@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "266",
+    "name": "José Medeiros",
+    "party": "PL-MT",
+    "state": "MT",
+    "email": "dep.josemedeiros@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "267",
+    "name": "José Nelto",
+    "party": "UNIÃO-GO",
+    "state": "GO",
+    "email": "dep.josenelto@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "268",
+    "name": "José Priante",
+    "party": "MDB-PA",
+    "state": "PA",
+    "email": "dep.josepriante@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "269",
+    "name": "José Rocha",
+    "party": "UNIÃO-BA",
+    "state": "BA",
+    "email": "dep.joserocha@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "270",
+    "name": "Joseildo Ramos",
+    "party": "PT-BA",
+    "state": "BA",
+    "email": "dep.joseildoramos@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "271",
+    "name": "Josenildo",
+    "party": "PDT-AP",
+    "state": "AP",
+    "email": "dep.josenildo@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "272",
+    "name": "Josias Gomes",
+    "party": "PT-BA",
+    "state": "BA",
+    "email": "dep.josiasgomes@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "273",
+    "name": "Josimar Maranhãozinho",
+    "party": "PL-MA",
+    "state": "MA",
+    "email": "dep.josimarmaranhaozinho@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "274",
+    "name": "Josivaldo JP",
+    "party": "PSD-MA",
+    "state": "MA",
+    "email": "dep.josivaldojp@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "275",
+    "name": "Juarez Costa",
+    "party": "MDB-MT",
+    "state": "MT",
+    "email": "dep.juarezcosta@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "276",
+    "name": "Julia Zanatta",
+    "party": "PL-SC",
+    "state": "SC",
+    "email": "dep.juliazanatta@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "277",
+    "name": "Juliana Cardoso",
+    "party": "PT-SP",
+    "state": "SP",
+    "email": "dep.julianacardoso@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "278",
+    "name": "Julio Arcoverde",
+    "party": "PP-PI",
+    "state": "PI",
+    "email": "dep.julioarcoverde@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "279",
+    "name": "Júlio Cesar",
+    "party": "PSD-PI",
+    "state": "PI",
+    "email": "dep.juliocesar@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "280",
+    "name": "Julio Cesar Ribeiro",
+    "party": "REPUBLICANOS-DF",
+    "state": "DF",
+    "email": "dep.juliocesarribeiro@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "281",
+    "name": "Julio Lopes",
+    "party": "PP-RJ",
+    "state": "RJ",
+    "email": "dep.juliolopes@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "282",
+    "name": "Juninho do Pneu",
+    "party": "UNIÃO-RJ",
+    "state": "RJ",
+    "email": "dep.juninhodopneu@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "283",
+    "name": "Júnior Ferrari",
+    "party": "PSD-PA",
+    "state": "PA",
+    "email": "dep.juniorferrari@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "284",
+    "name": "Junior Lourenço",
+    "party": "PL-MA",
+    "state": "MA",
+    "email": "dep.juniorlourenco@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "285",
+    "name": "Keniston Braga",
+    "party": "MDB-PA",
+    "state": "PA",
+    "email": "dep.kenistonbraga@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "286",
+    "name": "Kiko Celeguim",
+    "party": "PT-SP",
+    "state": "SP",
+    "email": "dep.kikoceleguim@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "287",
+    "name": "Kim Kataguiri",
+    "party": "UNIÃO-SP",
+    "state": "SP",
+    "email": "dep.kimkataguiri@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "288",
+    "name": "Lafayette de Andrada",
+    "party": "REPUBLICANOS-MG",
+    "state": "MG",
+    "email": "dep.lafayettedeandrada@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "289",
+    "name": "Laura Carneiro",
+    "party": "PSD-RJ",
+    "state": "RJ",
+    "email": "dep.lauracarneiro@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "290",
+    "name": "Lázaro Botelho",
+    "party": "PP-TO",
+    "state": "TO",
+    "email": "dep.lazarobotelho@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "291",
+    "name": "Lebrão",
+    "party": "UNIÃO-RO",
+    "state": "RO",
+    "email": "dep.lebrao@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "292",
+    "name": "Lêda Borges",
+    "party": "PSDB-GO",
+    "state": "GO",
+    "email": "dep.ledaborges@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "293",
+    "name": "Leo Prates",
+    "party": "PDT-BA",
+    "state": "BA",
+    "email": "dep.leoprates@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "294",
+    "name": "Leonardo Monteiro",
+    "party": "PT-MG",
+    "state": "MG",
+    "email": "dep.leonardomonteiro@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "295",
+    "name": "Leur Lomanto Júnior",
+    "party": "UNIÃO-BA",
+    "state": "BA",
+    "email": "dep.leurlomantojunior@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "296",
+    "name": "Lídice da Mata",
+    "party": "PSB-BA",
+    "state": "BA",
+    "email": "dep.lidicedamata@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "297",
+    "name": "Lincoln Portela",
+    "party": "PL-MG",
+    "state": "MG",
+    "email": "dep.lincolnportela@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "298",
+    "name": "Lindbergh Farias",
+    "party": "PT-RJ",
+    "state": "RJ",
+    "email": "dep.lindberghfarias@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "299",
+    "name": "Lucas Ramos",
+    "party": "PSB-PE",
+    "state": "PE",
+    "email": "dep.lucasramos@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "300",
+    "name": "Lucas Redecker",
+    "party": "PSDB-RS",
+    "state": "RS",
+    "email": "dep.lucasredecker@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "301",
+    "name": "Luciano Amaral",
+    "party": "PV-AL",
+    "state": "AL",
+    "email": "dep.lucianoamaral@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "302",
+    "name": "Luciano Bivar",
+    "party": "UNIÃO-PE",
+    "state": "PE",
+    "email": "dep.lucianobivar@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "303",
+    "name": "Luciano Ducci",
+    "party": "PSB-PR",
+    "state": "PR",
+    "email": "dep.lucianoducci@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "304",
+    "name": "Luciano Vieira",
+    "party": "REPUBLICANOS-RJ",
+    "state": "RJ",
+    "email": "dep.lucianovieira@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "305",
+    "name": "Lucio Mosquini",
+    "party": "MDB-RO",
+    "state": "RO",
+    "email": "dep.luciomosquini@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "306",
+    "name": "Luis Carlos Gomes",
+    "party": "REPUBLICANOS-RJ",
+    "state": "RJ",
+    "email": "dep.luiscarlosgomes@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "307",
+    "name": "Luis Tibé",
+    "party": "AVANTE-MG",
+    "state": "MG",
+    "email": "dep.luistibe@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "308",
+    "name": "Luisa Canziani",
+    "party": "PSD-PR",
+    "state": "PR",
+    "email": "dep.luisacanziani@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "309",
+    "name": "Luiz Carlos Busato",
+    "party": "UNIÃO-RS",
+    "state": "RS",
+    "email": "dep.luizcarlosbusato@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "310",
+    "name": "Luiz Carlos Hauly",
+    "party": "PODE-PR",
+    "state": "PR",
+    "email": "dep.luizcarloshauly@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "311",
+    "name": "Luiz Carlos Motta",
+    "party": "PL-SP",
+    "state": "SP",
+    "email": "dep.luizcarlosmotta@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "312",
+    "name": "Luiz Couto",
+    "party": "PT-PB",
+    "state": "PB",
+    "email": "dep.luizcouto@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "313",
+    "name": "Luiz Fernando Faria",
+    "party": "PSD-MG",
+    "state": "MG",
+    "email": "dep.luizfernandofaria@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "314",
+    "name": "Luiz Fernando Vampiro",
+    "party": "MDB-SC",
+    "state": "SC",
+    "email": "dep.luizfernandovampiro@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "315",
+    "name": "Luiz Gastão",
+    "party": "PSD-CE",
+    "state": "CE",
+    "email": "dep.luizgastao@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "316",
+    "name": "Luiz Lima",
+    "party": "PL-RJ",
+    "state": "RJ",
+    "email": "dep.luizlima@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "317",
+    "name": "Luiz Nishimori",
+    "party": "PSD-PR",
+    "state": "PR",
+    "email": "dep.luiznishimori@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "318",
+    "name": "Luiz Philippe de Orleans e Bragança",
+    "party": "PL-SP",
+    "state": "SP",
+    "email": "dep.luizphilippedeorleansebraganca@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "319",
+    "name": "Luiza Erundina",
+    "party": "PSOL-SP",
+    "state": "SP",
+    "email": "dep.luizaerundina@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "320",
+    "name": "Luizianne Lins",
+    "party": "PT-CE",
+    "state": "CE",
+    "email": "dep.luiziannelins@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "321",
+    "name": "Lula da Fonte",
+    "party": "PP-PE",
+    "state": "PE",
+    "email": "dep.luladafonte@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "322",
+    "name": "Magda Mofatto",
+    "party": "PRD-GO",
+    "state": "GO",
+    "email": "dep.magdamofatto@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "323",
+    "name": "Marangoni",
+    "party": "UNIÃO-SP",
+    "state": "SP",
+    "email": "dep.marangoni@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "324",
+    "name": "Marcel van Hattem",
+    "party": "NOVO-RS",
+    "state": "RS",
+    "email": "dep.marcelvanhattem@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "325",
+    "name": "Marcelo Álvaro Antônio",
+    "party": "PL-MG",
+    "state": "MG",
+    "email": "dep.marceloalvaroantonio@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "326",
+    "name": "Marcelo Crivella",
+    "party": "REPUBLICANOS-RJ",
+    "state": "RJ",
+    "email": "dep.marcelocrivella@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "327",
+    "name": "Marcelo Moraes",
+    "party": "PL-RS",
+    "state": "RS",
+    "email": "dep.marcelomoraes@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "328",
+    "name": "Marcelo Queiroz",
+    "party": "PP-RJ",
+    "state": "RJ",
+    "email": "dep.marceloqueiroz@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "329",
+    "name": "Marcio Alvino",
+    "party": "PL-SP",
+    "state": "SP",
+    "email": "dep.marcioalvino@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "330",
+    "name": "Márcio Biolchi",
+    "party": "MDB-RS",
+    "state": "RS",
+    "email": "dep.marciobiolchi@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "331",
+    "name": "Márcio Honaiser",
+    "party": "PDT-MA",
+    "state": "MA",
+    "email": "dep.marciohonaiser@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "332",
+    "name": "Márcio Jerry",
+    "party": "PCdoB-MA",
+    "state": "MA",
+    "email": "dep.marciojerry@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "333",
+    "name": "Márcio Marinho",
+    "party": "REPUBLICANOS-BA",
+    "state": "BA",
+    "email": "dep.marciomarinho@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "334",
+    "name": "Marco Brasil",
+    "party": "PP-PR",
+    "state": "PR",
+    "email": "dep.marcobrasil@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "335",
+    "name": "Marcon",
+    "party": "PT-RS",
+    "state": "RS",
+    "email": "dep.marcon@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "336",
+    "name": "Marcos Aurélio Sampaio",
+    "party": "PSD-PI",
+    "state": "PI",
+    "email": "dep.marcosaureliosampaio@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "337",
+    "name": "Marcos Pereira",
+    "party": "REPUBLICANOS-SP",
+    "state": "SP",
+    "email": "dep.marcospereira@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "338",
+    "name": "Marcos Pollon",
+    "party": "PL-MS",
+    "state": "MS",
+    "email": "dep.marcospollon@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "339",
+    "name": "Marcos Soares",
+    "party": "UNIÃO-RJ",
+    "state": "RJ",
+    "email": "dep.marcossoares@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "340",
+    "name": "Marcos Tavares",
+    "party": "PDT-RJ",
+    "state": "RJ",
+    "email": "dep.marcostavares@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "341",
+    "name": "Maria Arraes",
+    "party": "SOLIDARIEDADE-PE",
+    "state": "PE",
+    "email": "dep.mariaarraes@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "342",
+    "name": "Maria do Rosário",
+    "party": "PT-RS",
+    "state": "RS",
+    "email": "dep.mariadorosario@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "343",
+    "name": "Maria Rosas",
+    "party": "REPUBLICANOS-SP",
+    "state": "SP",
+    "email": "dep.mariarosas@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "344",
+    "name": "Mario Frias",
+    "party": "PL-SP",
+    "state": "SP",
+    "email": "dep.mariofrias@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "345",
+    "name": "Mário Heringer",
+    "party": "PDT-MG",
+    "state": "MG",
+    "email": "dep.marioheringer@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "346",
+    "name": "Mário Negromonte Jr.",
+    "party": "PP-BA",
+    "state": "BA",
+    "email": "dep.marionegromontejr@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "347",
+    "name": "Marreca Filho",
+    "party": "PRD-MA",
+    "state": "MA",
+    "email": "dep.marrecafilho@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "348",
+    "name": "Marussa Boldrin",
+    "party": "MDB-GO",
+    "state": "GO",
+    "email": "dep.marussaboldrin@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "349",
+    "name": "Marx Beltrão",
+    "party": "PP-AL",
+    "state": "AL",
+    "email": "dep.marxbeltrao@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "350",
+    "name": "Matheus Noronha",
+    "party": "PL-CE",
+    "state": "CE",
+    "email": "dep.matheusnoronha@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "351",
+    "name": "Maurício Carvalho",
+    "party": "UNIÃO-RO",
+    "state": "RO",
+    "email": "dep.mauriciocarvalho@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "352",
+    "name": "Mauricio do Vôlei",
+    "party": "PL-MG",
+    "state": "MG",
+    "email": "dep.mauriciodovolei@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "353",
+    "name": "Mauricio Marcon",
+    "party": "PODE-RS",
+    "state": "RS",
+    "email": "dep.mauriciomarcon@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "354",
+    "name": "Mauricio Neves",
+    "party": "PP-SP",
+    "state": "SP",
+    "email": "dep.mauricioneves@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "355",
+    "name": "Mauro Benevides Filho",
+    "party": "PDT-CE",
+    "state": "CE",
+    "email": "dep.maurobenevidesfilho@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "356",
+    "name": "Max Lemos",
+    "party": "PDT-RJ",
+    "state": "RJ",
+    "email": "dep.maxlemos@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "357",
+    "name": "Meire Serafim",
+    "party": "UNIÃO-AC",
+    "state": "AC",
+    "email": "dep.meireserafim@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "358",
+    "name": "Mendonça Filho",
+    "party": "UNIÃO-PE",
+    "state": "PE",
+    "email": "dep.mendoncafilho@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "359",
+    "name": "Merlong Solano",
+    "party": "PT-PI",
+    "state": "PI",
+    "email": "dep.merlongsolano@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "360",
+    "name": "Mersinho Lucena",
+    "party": "PP-PB",
+    "state": "PB",
+    "email": "dep.mersinholucena@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "361",
+    "name": "Messias Donato",
+    "party": "REPUBLICANOS-ES",
+    "state": "ES",
+    "email": "dep.messiasdonato@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "362",
+    "name": "Miguel Ângelo",
+    "party": "PT-MG",
+    "state": "MG",
+    "email": "dep.miguelangelo@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "363",
+    "name": "Miguel Lombardi",
+    "party": "PL-SP",
+    "state": "SP",
+    "email": "dep.miguellombardi@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "364",
+    "name": "Misael Varella",
+    "party": "PSD-MG",
+    "state": "MG",
+    "email": "dep.misaelvarella@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "365",
+    "name": "Moses Rodrigues",
+    "party": "UNIÃO-CE",
+    "state": "CE",
+    "email": "dep.mosesrodrigues@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "366",
+    "name": "Murillo Gouvea",
+    "party": "UNIÃO-RJ",
+    "state": "RJ",
+    "email": "dep.murillogouvea@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "367",
+    "name": "Murilo Galdino",
+    "party": "REPUBLICANOS-PB",
+    "state": "PB",
+    "email": "dep.murilogaldino@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "368",
+    "name": "Natália Bonavides",
+    "party": "PT-RN",
+    "state": "RN",
+    "email": "dep.nataliabonavides@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "369",
+    "name": "Nelson Barbudo",
+    "party": "PL-MT",
+    "state": "MT",
+    "email": "dep.nelsonbarbudo@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "370",
+    "name": "Nely Aquino",
+    "party": "PODE-MG",
+    "state": "MG",
+    "email": "dep.nelyaquino@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "371",
+    "name": "Neto Carletto",
+    "party": "PP-BA",
+    "state": "BA",
+    "email": "dep.netocarletto@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "372",
+    "name": "Newton Bonin",
+    "party": "UNIÃO-PR",
+    "state": "PR",
+    "email": "dep.newtonbonin@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "373",
+    "name": "Newton Cardoso Jr",
+    "party": "MDB-MG",
+    "state": "MG",
+    "email": "dep.newtoncardosojr@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "374",
+    "name": "Nicoletti",
+    "party": "UNIÃO-RR",
+    "state": "RR",
+    "email": "dep.nicoletti@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "375",
+    "name": "Nikolas Ferreira",
+    "party": "PL-MG",
+    "state": "MG",
+    "email": "dep.nikolasferreira@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "376",
+    "name": "Nilto Tatto",
+    "party": "PT-SP",
+    "state": "SP",
+    "email": "dep.niltotatto@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "377",
+    "name": "Nitinho",
+    "party": "PSD-SE",
+    "state": "SE",
+    "email": "dep.nitinho@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "378",
+    "name": "Odair Cunha",
+    "party": "PT-MG",
+    "state": "MG",
+    "email": "dep.odaircunha@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "379",
+    "name": "Olival Marques",
+    "party": "MDB-PA",
+    "state": "PA",
+    "email": "dep.olivalmarques@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "380",
+    "name": "Orlando Silva",
+    "party": "PCdoB-SP",
+    "state": "SP",
+    "email": "dep.orlandosilva@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "381",
+    "name": "Osmar Terra",
+    "party": "MDB-RS",
+    "state": "RS",
+    "email": "dep.osmarterra@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "382",
+    "name": "Ossesio Silva",
+    "party": "REPUBLICANOS-PE",
+    "state": "PE",
+    "email": "dep.ossesiosilva@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "383",
+    "name": "Otoni de Paula",
+    "party": "MDB-RJ",
+    "state": "RJ",
+    "email": "dep.otonidepaula@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "384",
+    "name": "Otto Alencar Filho",
+    "party": "PSD-BA",
+    "state": "BA",
+    "email": "dep.ottoalencarfilho@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "385",
+    "name": "Padovani",
+    "party": "UNIÃO-PR",
+    "state": "PR",
+    "email": "dep.padovani@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "386",
+    "name": "Padre João",
+    "party": "PT-MG",
+    "state": "MG",
+    "email": "dep.padrejoao@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "387",
+    "name": "Pastor Diniz",
+    "party": "UNIÃO-RR",
+    "state": "RR",
+    "email": "dep.pastordiniz@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "388",
+    "name": "Pastor Eurico",
+    "party": "PL-PE",
+    "state": "PE",
+    "email": "dep.pastoreurico@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "389",
+    "name": "Pastor Gil",
+    "party": "PL-MA",
+    "state": "MA",
+    "email": "dep.pastorgil@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "390",
+    "name": "Pastor Henrique Vieira",
+    "party": "PSOL-RJ",
+    "state": "RJ",
+    "email": "dep.pastorhenriquevieira@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "391",
+    "name": "Pastor Sargento Isidório",
+    "party": "AVANTE-BA",
+    "state": "BA",
+    "email": "dep.pastorsargentoisidorio@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "392",
+    "name": "Patrus Ananias",
+    "party": "PT-MG",
+    "state": "MG",
+    "email": "dep.patrusananias@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "393",
+    "name": "Paulão",
+    "party": "PT-AL",
+    "state": "AL",
+    "email": "dep.paulao@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "394",
+    "name": "Paulinho da Força",
+    "party": "SOLIDARIEDADE-SP",
+    "state": "SP",
+    "email": "dep.paulinhodaforca@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "395",
+    "name": "Paulinho Freire",
+    "party": "UNIÃO-RN",
+    "state": "RN",
+    "email": "dep.paulinhofreire@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "396",
+    "name": "Paulo Abi-Ackel",
+    "party": "PSDB-MG",
+    "state": "MG",
+    "email": "dep.pauloabiackel@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "397",
+    "name": "Paulo Alexandre Barbosa",
+    "party": "PSDB-SP",
+    "state": "SP",
+    "email": "dep.pauloalexandrebarbosa@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "398",
+    "name": "Paulo Azi",
+    "party": "UNIÃO-BA",
+    "state": "BA",
+    "email": "dep.pauloazi@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "399",
+    "name": "Paulo Folletto",
+    "party": "PSB-ES",
+    "state": "ES",
+    "email": "dep.paulofolletto@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "400",
+    "name": "Paulo Freire Costa",
+    "party": "PL-SP",
+    "state": "SP",
+    "email": "dep.paulofreirecosta@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "401",
+    "name": "Paulo Guedes",
+    "party": "PT-MG",
+    "state": "MG",
+    "email": "dep.pauloguedes@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "402",
+    "name": "Paulo Litro",
+    "party": "PSD-PR",
+    "state": "PR",
+    "email": "dep.paulolitro@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "403",
+    "name": "Paulo Magalhães",
+    "party": "PSD-BA",
+    "state": "BA",
+    "email": "dep.paulomagalhaes@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "404",
+    "name": "Pedro Aihara",
+    "party": "PRD-MG",
+    "state": "MG",
+    "email": "dep.pedroaihara@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "405",
+    "name": "Pedro Campos",
+    "party": "PSB-PE",
+    "state": "PE",
+    "email": "dep.pedrocampos@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "406",
+    "name": "Pedro Lucas Fernandes",
+    "party": "UNIÃO-MA",
+    "state": "MA",
+    "email": "dep.pedrolucasfernandes@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "407",
+    "name": "Pedro Lupion",
+    "party": "PP-PR",
+    "state": "PR",
+    "email": "dep.pedrolupion@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "408",
+    "name": "Pedro Paulo",
+    "party": "PSD-RJ",
+    "state": "RJ",
+    "email": "dep.pedropaulo@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "409",
+    "name": "Pedro Uczai",
+    "party": "PT-SC",
+    "state": "SC",
+    "email": "dep.pedrouczai@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "410",
+    "name": "Pedro Westphalen",
+    "party": "PP-RS",
+    "state": "RS",
+    "email": "dep.pedrowestphalen@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "411",
+    "name": "Pezenti",
+    "party": "MDB-SC",
+    "state": "SC",
+    "email": "dep.pezenti@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "412",
+    "name": "Pinheirinho",
+    "party": "PP-MG",
+    "state": "MG",
+    "email": "dep.pinheirinho@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "413",
+    "name": "Pompeo de Mattos",
+    "party": "PDT-RS",
+    "state": "RS",
+    "email": "dep.pompeodemattos@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "414",
+    "name": "Pr. Marco Feliciano",
+    "party": "PL-SP",
+    "state": "SP",
+    "email": "dep.pr.marcofeliciano@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "415",
+    "name": "Prof. Reginaldo Veras",
+    "party": "PV-DF",
+    "state": "DF",
+    "email": "dep.prof.reginaldoveras@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "416",
+    "name": "Professor Alcides",
+    "party": "PL-GO",
+    "state": "GO",
+    "email": "dep.professoralcides@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "417",
+    "name": "Professora Goreth",
+    "party": "PDT-AP",
+    "state": "AP",
+    "email": "dep.professoragoreth@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "418",
+    "name": "Professora Luciene Cavalcante",
+    "party": "PSOL-SP",
+    "state": "SP",
+    "email": "dep.professoralucienecavalcante@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "419",
+    "name": "Rafael Brito",
+    "party": "MDB-AL",
+    "state": "AL",
+    "email": "dep.rafaelbrito@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "420",
+    "name": "Rafael Prudente",
+    "party": "MDB-DF",
+    "state": "DF",
+    "email": "dep.rafaelprudente@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "421",
+    "name": "Rafael Simoes",
+    "party": "UNIÃO-MG",
+    "state": "MG",
+    "email": "dep.rafaelsimoes@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "422",
+    "name": "Raimundo Costa",
+    "party": "PODE-BA",
+    "state": "BA",
+    "email": "dep.raimundocosta@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "423",
+    "name": "Raimundo Santos",
+    "party": "PSD-PA",
+    "state": "PA",
+    "email": "dep.raimundosantos@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "424",
+    "name": "Reginaldo Lopes",
+    "party": "PT-MG",
+    "state": "MG",
+    "email": "dep.reginaldolopes@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "425",
+    "name": "Reginete Bispo",
+    "party": "PT-RS",
+    "state": "RS",
+    "email": "dep.reginetebispo@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "426",
+    "name": "Reimont",
+    "party": "PT-RJ",
+    "state": "RJ",
+    "email": "dep.reimont@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "427",
+    "name": "Reinhold Stephanes",
+    "party": "PSD-PR",
+    "state": "PR",
+    "email": "dep.reinholdstephanes@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "428",
+    "name": "Renan Ferreirinha",
+    "party": "PSD-RJ",
+    "state": "RJ",
+    "email": "dep.renanferreirinha@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "429",
+    "name": "Renata Abreu",
+    "party": "PODE-SP",
+    "state": "SP",
+    "email": "dep.renataabreu@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "430",
+    "name": "Renilce Nicodemos",
+    "party": "MDB-PA",
+    "state": "PA",
+    "email": "dep.renilcenicodemos@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "431",
+    "name": "Renildo Calheiros",
+    "party": "PCdoB-PE",
+    "state": "PE",
+    "email": "dep.renildocalheiros@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "432",
+    "name": "Ricardo Ayres",
+    "party": "REPUBLICANOS-TO",
+    "state": "TO",
+    "email": "dep.ricardoayres@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "433",
+    "name": "Ricardo Guidi",
+    "party": "PL-SC",
+    "state": "SC",
+    "email": "dep.ricardoguidi@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "434",
+    "name": "Ricardo Maia",
+    "party": "MDB-BA",
+    "state": "BA",
+    "email": "dep.ricardomaia@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "435",
+    "name": "Ricardo Salles",
+    "party": "NOVO-SP",
+    "state": "SP",
+    "email": "dep.ricardosalles@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "436",
+    "name": "Ricardo Silva",
+    "party": "PSD-SP",
+    "state": "SP",
+    "email": "dep.ricardosilva@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "437",
+    "name": "Robério Monteiro",
+    "party": "PDT-CE",
+    "state": "CE",
+    "email": "dep.roberiomonteiro@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "438",
+    "name": "Roberta Roma",
+    "party": "PL-BA",
+    "state": "BA",
+    "email": "dep.robertaroma@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "439",
+    "name": "Roberto Duarte",
+    "party": "REPUBLICANOS-AC",
+    "state": "AC",
+    "email": "dep.robertoduarte@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "440",
+    "name": "Roberto Monteiro Pai",
+    "party": "PL-RJ",
+    "state": "RJ",
+    "email": "dep.robertomonteiropai@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "441",
+    "name": "Robinson Faria",
+    "party": "PL-RN",
+    "state": "RN",
+    "email": "dep.robinsonfaria@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "442",
+    "name": "Rodolfo Nogueira",
+    "party": "PL-MS",
+    "state": "MS",
+    "email": "dep.rodolfonogueira@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "443",
+    "name": "Rodrigo de Castro",
+    "party": "UNIÃO-MG",
+    "state": "MG",
+    "email": "dep.rodrigodecastro@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "444",
+    "name": "Rodrigo Estacho",
+    "party": "PSD-PR",
+    "state": "PR",
+    "email": "dep.rodrigoestacho@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "445",
+    "name": "Rodrigo Gambale",
+    "party": "PODE-SP",
+    "state": "SP",
+    "email": "dep.rodrigogambale@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "446",
+    "name": "Rodrigo Valadares",
+    "party": "UNIÃO-SE",
+    "state": "SE",
+    "email": "dep.rodrigovaladares@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "447",
+    "name": "Rogéria Santos",
+    "party": "REPUBLICANOS-BA",
+    "state": "BA",
+    "email": "dep.rogeriasantos@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "448",
+    "name": "Rogério Correia",
+    "party": "PT-MG",
+    "state": "MG",
+    "email": "dep.rogeriocorreia@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "449",
+    "name": "Romero Rodrigues",
+    "party": "PODE-PB",
+    "state": "PB",
+    "email": "dep.romerorodrigues@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "450",
+    "name": "Ronaldo Nogueira",
+    "party": "REPUBLICANOS-RS",
+    "state": "RS",
+    "email": "dep.ronaldonogueira@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "451",
+    "name": "Rosana Valle",
+    "party": "PL-SP",
+    "state": "SP",
+    "email": "dep.rosanavalle@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "452",
+    "name": "Rosangela Moro",
+    "party": "UNIÃO-SP",
+    "state": "SP",
+    "email": "dep.rosangelamoro@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "453",
+    "name": "Rosângela Reis",
+    "party": "PL-MG",
+    "state": "MG",
+    "email": "dep.rosangelareis@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "454",
+    "name": "Roseana Sarney",
+    "party": "MDB-MA",
+    "state": "MA",
+    "email": "dep.roseanasarney@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "455",
+    "name": "Rubens Otoni",
+    "party": "PT-GO",
+    "state": "GO",
+    "email": "dep.rubensotoni@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "456",
+    "name": "Rubens Pereira Júnior",
+    "party": "PT-MA",
+    "state": "MA",
+    "email": "dep.rubenspereirajunior@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "457",
+    "name": "Rui Falcão",
+    "party": "PT-SP",
+    "state": "SP",
+    "email": "dep.ruifalcao@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "458",
+    "name": "Ruy Carneiro",
+    "party": "PODE-PB",
+    "state": "PB",
+    "email": "dep.ruycarneiro@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "459",
+    "name": "Sâmia Bomfim",
+    "party": "PSOL-SP",
+    "state": "SP",
+    "email": "dep.samiabomfim@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "460",
+    "name": "Samuel Viana",
+    "party": "REPUBLICANOS-MG",
+    "state": "MG",
+    "email": "dep.samuelviana@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "461",
+    "name": "Sanderson",
+    "party": "PL-RS",
+    "state": "RS",
+    "email": "dep.sanderson@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "462",
+    "name": "Sargento Fahur",
+    "party": "PSD-PR",
+    "state": "PR",
+    "email": "dep.sargentofahur@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "463",
+    "name": "Sargento Gonçalves",
+    "party": "PL-RN",
+    "state": "RN",
+    "email": "dep.sargentogoncalves@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "464",
+    "name": "Sargento Portugal",
+    "party": "PODE-RJ",
+    "state": "RJ",
+    "email": "dep.sargentoportugal@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "465",
+    "name": "Saullo Vianna",
+    "party": "UNIÃO-AM",
+    "state": "AM",
+    "email": "dep.saullovianna@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "466",
+    "name": "Saulo Pedroso",
+    "party": "PSD-SP",
+    "state": "SP",
+    "email": "dep.saulopedroso@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "467",
+    "name": "Sergio Souza",
+    "party": "MDB-PR",
+    "state": "PR",
+    "email": "dep.sergiosouza@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "468",
+    "name": "Sidney Leite",
+    "party": "PSD-AM",
+    "state": "AM",
+    "email": "dep.sidneyleite@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "469",
+    "name": "Silas Câmara",
+    "party": "REPUBLICANOS-AM",
+    "state": "AM",
+    "email": "dep.silascamara@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "470",
+    "name": "Silvia Cristina",
+    "party": "PP-RO",
+    "state": "RO",
+    "email": "dep.silviacristina@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "471",
+    "name": "Silvia Waiãpi",
+    "party": "PL-AP",
+    "state": "AP",
+    "email": "dep.silviawaiapi@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "472",
+    "name": "Silvye Alves",
+    "party": "UNIÃO-GO",
+    "state": "GO",
+    "email": "dep.silvyealves@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "473",
+    "name": "Simone Marquetto",
+    "party": "MDB-SP",
+    "state": "SP",
+    "email": "dep.simonemarquetto@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "474",
+    "name": "Socorro Neri",
+    "party": "PP-AC",
+    "state": "AC",
+    "email": "dep.socorroneri@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "475",
+    "name": "Sonize Barbosa",
+    "party": "PL-AP",
+    "state": "AP",
+    "email": "dep.sonizebarbosa@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "476",
+    "name": "Soraya Santos",
+    "party": "PL-RJ",
+    "state": "RJ",
+    "email": "dep.sorayasantos@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "477",
+    "name": "Sóstenes Cavalcante",
+    "party": "PL-RJ",
+    "state": "RJ",
+    "email": "dep.sostenescavalcante@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "478",
+    "name": "Stefano Aguiar",
+    "party": "PSD-MG",
+    "state": "MG",
+    "email": "dep.stefanoaguiar@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "479",
+    "name": "Tabata Amaral",
+    "party": "PSB-SP",
+    "state": "SP",
+    "email": "dep.tabataamaral@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "480",
+    "name": "Tadeu Oliveira",
+    "party": "PL-CE",
+    "state": "CE",
+    "email": "dep.tadeuoliveira@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "481",
+    "name": "Tadeu Veneri",
+    "party": "PT-PR",
+    "state": "PR",
+    "email": "dep.tadeuveneri@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "482",
+    "name": "Talíria Petrone",
+    "party": "PSOL-RJ",
+    "state": "RJ",
+    "email": "dep.taliriapetrone@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "483",
+    "name": "Tarcísio Motta",
+    "party": "PSOL-RJ",
+    "state": "RJ",
+    "email": "dep.tarcisiomotta@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "484",
+    "name": "Thiago de Joaldo",
+    "party": "PP-SE",
+    "state": "SE",
+    "email": "dep.thiagodejoaldo@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "485",
+    "name": "Thiago Flores",
+    "party": "REPUBLICANOS-RO",
+    "state": "RO",
+    "email": "dep.thiagoflores@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "486",
+    "name": "Tião Medeiros",
+    "party": "PP-PR",
+    "state": "PR",
+    "email": "dep.tiaomedeiros@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "487",
+    "name": "Tiririca",
+    "party": "PL-SP",
+    "state": "SP",
+    "email": "dep.tiririca@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "488",
+    "name": "Toninho Wandscheer",
+    "party": "PP-PR",
+    "state": "PR",
+    "email": "dep.toninhowandscheer@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "489",
+    "name": "Túlio Gadêlha",
+    "party": "REDE-PE",
+    "state": "PE",
+    "email": "dep.tuliogadelha@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "490",
+    "name": "Valmir Assunção",
+    "party": "PT-BA",
+    "state": "BA",
+    "email": "dep.valmirassuncao@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "491",
+    "name": "Vander Loubet",
+    "party": "PT-MS",
+    "state": "MS",
+    "email": "dep.vanderloubet@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "492",
+    "name": "Vermelho",
+    "party": "PL-PR",
+    "state": "PR",
+    "email": "dep.vermelho@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "493",
+    "name": "Vicentinho",
+    "party": "PT-SP",
+    "state": "SP",
+    "email": "dep.vicentinho@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "494",
+    "name": "Vicentinho Júnior",
+    "party": "PP-TO",
+    "state": "TO",
+    "email": "dep.vicentinhojunior@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "495",
+    "name": "Vinicius Carvalho",
+    "party": "REPUBLICANOS-SP",
+    "state": "SP",
+    "email": "dep.viniciuscarvalho@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "496",
+    "name": "Vinicius Gurgel",
+    "party": "PL-AP",
+    "state": "AP",
+    "email": "dep.viniciusgurgel@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "497",
+    "name": "Vitor Lippi",
+    "party": "PSDB-SP",
+    "state": "SP",
+    "email": "dep.vitorlippi@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "498",
+    "name": "Waldemar Oliveira",
+    "party": "AVANTE-PE",
+    "state": "PE",
+    "email": "dep.waldemaroliveira@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "499",
+    "name": "Waldenor Pereira",
+    "party": "PT-BA",
+    "state": "BA",
+    "email": "dep.waldenorpereira@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "500",
+    "name": "Washington Quaquá",
+    "party": "PT-RJ",
+    "state": "RJ",
+    "email": "dep.washingtonquaqua@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "501",
+    "name": "Weliton Prado",
+    "party": "SOLIDARIEDADE-MG",
+    "state": "MG",
+    "email": "dep.welitonprado@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "502",
+    "name": "Wellington Roberto",
+    "party": "PL-PB",
+    "state": "PB",
+    "email": "dep.wellingtonroberto@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "503",
+    "name": "Welter",
+    "party": "PT-PR",
+    "state": "PR",
+    "email": "dep.welter@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "504",
+    "name": "Wilson Santiago",
+    "party": "REPUBLICANOS-PB",
+    "state": "PB",
+    "email": "dep.wilsonsantiago@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "505",
+    "name": "Yandra Moura",
+    "party": "UNIÃO-SE",
+    "state": "SE",
+    "email": "dep.yandramoura@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "506",
+    "name": "Yury do Paredão",
+    "party": "MDB-CE",
+    "state": "CE",
+    "email": "dep.yurydoparedao@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "507",
+    "name": "Zé Haroldo Cathedral",
+    "party": "PSD-RR",
+    "state": "RR",
+    "email": "dep.zeharoldocathedral@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "508",
+    "name": "Zé Silva",
+    "party": "SOLIDARIEDADE-MG",
+    "state": "MG",
+    "email": "dep.zesilva@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "509",
+    "name": "Zé Trovão",
+    "party": "PL-SC",
+    "state": "SC",
+    "email": "dep.zetrovao@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "510",
+    "name": "Zé Vitor",
+    "party": "PL-MG",
+    "state": "MG",
+    "email": "dep.zevitor@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "511",
+    "name": "Zeca Dirceu",
+    "party": "PT-PR",
+    "state": "PR",
+    "email": "dep.zecadirceu@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "512",
+    "name": "Zezinho Barbary",
+    "party": "PP-AC",
+    "state": "AC",
+    "email": "dep.zezinhobarbary@camara.leg.br",
+    "committee": "Não especificado"
+  },
+  {
+    "id": "513",
+    "name": "Zucco",
+    "party": "PL-RS",
+    "state": "RS",
+    "email": "dep.zucco@camara.leg.br",
+    "committee": "Não especificado"
+  }
+]
