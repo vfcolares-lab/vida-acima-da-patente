@@ -4,7 +4,7 @@ import { useState } from 'react';
 import { states } from '@/lib/data';
 
 interface SignatureFormProps {
-  onSuccess: () => void;
+  onSuccess: (firstName: string) => void;
   onIncrement?: () => void;
 }
 
