@@ -8,7 +8,7 @@ interface SignatureFormProps {
   onIncrement?: () => void;
 }
 
-export default function SignatureForm({ onSuccess }: SignatureFormProps) {
+export default function SignatureForm({ onSuccess, onIncrement }: SignatureFormProps) {
   const [formData, setFormData] = useState({
     firstName: '',
     lastName: '',
@@ -82,8 +82,8 @@ export default function SignatureForm({ onSuccess }: SignatureFormProps) {
       if (response.ok) {
         onSuccess(formData.firstName);
         // Incrementar contador de assinaturas
-        if (props.onIncrement) {
-          props.onIncrement();
+        if (onIncrement) {
+          onIncrement();
         }
       } else {
         setErrors({ submit: 'Erro ao enviar. Tente novamente.' });
