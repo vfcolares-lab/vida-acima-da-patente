@@ -10,9 +10,9 @@ interface Counters {
 
 export function useCounters() {
   const [counters, setCounters] = useState<Counters>({
-    signatures: 12480,
-    emails: 3902,
-    shares: 8117,
+    signatures: 621,
+    emails: 264,
+    shares: 64,
   });
   const [loading, setLoading] = useState(true);
 
